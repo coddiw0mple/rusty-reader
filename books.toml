@@ -1,0 +1,23 @@
+[[book]]
+name = "The Catcher in the Rye"
+author = "J.D. Salinger"
+publish_date = 1951-07-16
+pages = 277
+description = "The story of a teenage boy named Holden Caulfield who has been expelled from prep school and is wandering around New York City trying to find meaning and connection in his life."
+url = "/books/the-catcher-in-the-rye"
+
+[[book]]
+name = "To Kill a Mockingbird"
+author = "Harper Lee"
+publish_date = 1960-07-11
+pages = 281
+description = "Set in the Deep South, this novel follows the trial of a black man who is falsely accused of raping a white woman. Through the eyes of a young girl named Scout, the story explores themes of racism, injustice, and the loss of innocence."
+url = "/books/the-catcher-in-the-rye"
+
+[[book]]
+name = "The Great Gatsby"
+author = "F. Scott Fitzgerald"
+publish_date = 1925-04-10
+pages = 180
+description = "A novel set in the Roaring Twenties, it follows the lives of a group of wealthy and glamorous people living in Long Island, New York. Through the eyes of the narrator, Nick Carraway, the story explores themes of love, wealth, and the corruption of the American Dream."
+url = "/books/the-catcher-in-the-rye"
